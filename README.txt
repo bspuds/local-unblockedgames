@@ -1,2 +1,2 @@
 HEE HEE HAW HAW
-<img src="hee.jpg"> <br<
+<img src="hee.png"> <br>
